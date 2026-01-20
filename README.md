@@ -1,2 +1,2 @@
-# Jogo RPG feito no js
+# RPG feito no Java Script (Isto foi apenas um experimento)
  
