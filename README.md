@@ -1,2 +1,2 @@
-# RPG feito no Java Script (Isto foi apenas um experimento)
+# RPG feito no Java Script 
  
